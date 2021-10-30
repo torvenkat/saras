@@ -18,7 +18,7 @@ title: Soon
 #phone: 0123456789
 description: A coming soon page for Saras Ventures
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sarasventures.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://torvenkat.github.io/saras/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sarasventures
 github_username: sarasven
 
